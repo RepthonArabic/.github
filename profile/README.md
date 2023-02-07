@@ -13,7 +13,7 @@
 - 🤠 How to reach me: https://t.me/E_7_V
 - 👀 My telegram channel for updates: https://t.me/Repthon
 
-[Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,docker,git,github,heroku,redis,mongodb,java,py,ts,js,fastapi&perline=10)
+[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,docker,git,github,heroku,redis,mongodb,java,py,ts,js,fastapi&perline=10)](https://xditya.me)
 
 ## Glad to see you here! ![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views&style=for-the-badge)
 
