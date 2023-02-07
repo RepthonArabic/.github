@@ -15,6 +15,6 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,python,markdown&theme=dark)](https://skills.thijs.gg)
 
-## Glad to see you here! ![visitors](https://gpvc.arturio.dev/RepthonArabic)
+## Glad to see you here! ![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views&style=for-the-badge)(https://github.com/RepthonArabic)
 
 ### Bey 👾
