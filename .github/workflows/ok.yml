@@ -15,7 +15,7 @@ jobs:
 
       - name: Find and Replace
 
-        uses: rogerpq@users.noreply.github.com
+        uses: jacobtomlinson/gha-find-replace@master
 
         with:
 
@@ -25,7 +25,7 @@ jobs:
 
       - name: Create Pull Request
 
-        uses: rogerpq@users.noreply.github.com
+        uses: stefanzweifel/git-auto-commit-action@v4
 
         with:
 
@@ -37,4 +37,4 @@ jobs:
 
           commit_user_name: rogerpq
 
-          commit_user_email: baqerpoi@gmail.com
+          commit_user_email: rogerpq@users.noreply.github.com
