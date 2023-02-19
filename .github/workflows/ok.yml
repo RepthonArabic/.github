@@ -17,11 +17,6 @@ jobs:
 
         uses: jacobtomlinson/gha-find-replace@master
 
-        with:
-
-          find: "from .README.MD"
-
-          replace: "from profile"
 
       - name: Create Pull Request
 
